@@ -7,4 +7,5 @@
 # python:3.8-slim
 # vllm/vllm-openai:v0.8.4
 # pytorch/manylinux-cpu:latest
-public.ecr.aws/q9t5s3a7/vllm-cpu-release-repo:v0.9.1
+# public.ecr.aws/q9t5s3a7/vllm-cpu-release-repo:v0.9.1
+vllm/vllm-openai:v0.9.1
