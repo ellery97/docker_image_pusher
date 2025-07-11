@@ -8,8 +8,9 @@
 # vllm/vllm-openai:v0.8.4
 # pytorch/manylinux-cpu:latest
 # public.ecr.aws/q9t5s3a7/vllm-cpu-release-repo:v0.9.1
-vllm/vllm-openai:v0.8.5
+# vllm/vllm-openai:v0.8.5
 # hiyouga/verl:ngc-th2.7.0-cu12.6-vllm0.9.1
 # ascendai/cann:latest
 # arm64v8/ubuntu:22.04
 # multiarch/qemu-user-static:register
+continuumio/miniconda3:latest
