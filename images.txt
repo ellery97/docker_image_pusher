@@ -13,4 +13,5 @@
 # ascendai/cann:latest
 # arm64v8/ubuntu:22.04
 # multiarch/qemu-user-static:register
-nvidia/cuda:12.2.2-devel-ubuntu22.04
+# nvidia/cuda:12.2.2-devel-ubuntu22.04
+ascendai/cann:ubuntu-python3.10-cann8.0.0
