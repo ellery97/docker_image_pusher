@@ -15,4 +15,5 @@
 # multiarch/qemu-user-static:register
 # nvidia/cuda:12.2.2-devel-ubuntu22.04
 # --platform=arm64 ascendai/cann:ubuntu-python3.10-cann8.0.0
-willfarrell/autoheal:latest
+# willfarrell/autoheal:latest
+python:3.10
