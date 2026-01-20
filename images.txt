@@ -16,4 +16,6 @@
 # nvidia/cuda:12.2.2-devel-ubuntu22.04
 # --platform=arm64 ascendai/cann:ubuntu-python3.10-cann8.0.0
 # willfarrell/autoheal:latest
-python:3.10
+postgres:16-alpine
+python:3.11-slim
+node:18-alpine
